@@ -55,7 +55,7 @@ public class PluginStoreFlog extends Flog {
 		this.flog.strings.put("ID", DataFormatter.createSubStoreUniqueID(FlogHelper.getStore()));
 
 		this.setShortDescription("");
-		this.setTitle("New untitled flog");
+		this.setTitle("New untitled blog");
 		this.setTheme(FlogFactory.THEMES[0]);
 		this.setAuthorID("");
 	}
